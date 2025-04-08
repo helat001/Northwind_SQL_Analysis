@@ -38,7 +38,7 @@ I summed total sales per customer and applied the `PERCENT_RANK()` window functi
 ---
 
 ### Inventory Restock Strategy – Demand vs Stock
-[View Full Query →](restock_recommendations.sql.txt)
+[View Full Query →](restock_recommendations.sql)
 
 ![Restock Table](restock_recommendations.png)
 

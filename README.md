@@ -20,7 +20,7 @@ In this project, I used SQL to analyze retail data from the Northwind database. 
 ---
 
 ### Product Category Performance – Revenue Leaders
-[View Full Query →](category_performance.sql)
+[View Full Query →](category_performance.sql.txt)
 
 ![Top Categories Table](top_categories.png)
 
@@ -29,7 +29,7 @@ I used a CTE to calculate total sales per category by multiplying unit price, qu
 ---
 
 ### Customer Segmentation – High-Value Buyers by Country
-[View Full Query →](customer_segmentation.sql)
+[View Full Query →](customer_segmentation.sql.txt)
 
 ![Customer Segments Table](customer_segments.png)
 
@@ -38,7 +38,7 @@ I summed total sales per customer and applied the `PERCENT_RANK()` window functi
 ---
 
 ### Inventory Restock Strategy – Demand vs Stock
-[View Full Query →](restock_recommendations.sql)
+[View Full Query →](restock_recommendations.sql.txt)
 
 ![Restock Table](restock_recommendations.png)
 

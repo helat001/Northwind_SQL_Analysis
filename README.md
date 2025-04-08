@@ -21,7 +21,7 @@ In this project, I used SQL to analyze retail data from the Northwind database. 
 
 ### Product Category Performance – Revenue Leaders
 
-![Top Categories Table](images/top_categories.png)
+![Top Categories Table](top_categories.png)
 
 I used a CTE to calculate total sales per category by multiplying unit price, quantity, and discount for each order line. I also counted the number of distinct products per category to get average revenue per product. Beverages led with over 92 million in sales, while Meat/Poultry had the highest average revenue per product despite a smaller catalog. These insights help identify which categories are the most profitable and scalable.
 
@@ -29,7 +29,7 @@ I used a CTE to calculate total sales per category by multiplying unit price, qu
 
 ### Customer Segmentation – High-Value Buyers by Country
 
-![Customer Segments Table](images/customer_segments.png)
+![Customer Segments Table](customer_segments.png)
 
 I summed total sales per customer and applied the `PERCENT_RANK()` window function to rank customers into High-, Mid-, or Low-Value segments. Then I grouped and aggregated customer counts and revenue by country and segment. The results showed that countries like the UK, USA, and Brazil had the largest share of high-value customers, making them strong targets for loyalty programs or region-specific campaigns.
 
@@ -37,7 +37,7 @@ I summed total sales per customer and applied the `PERCENT_RANK()` window functi
 
 ### Inventory Restock Strategy – Demand vs Stock
 
-![Restock Table](images/restock_recommendations.png)
+![Restock Table](restock_recommendations.png)
 
 I calculated average monthly sales per product using `AVG(Quantity)` and compared it to current stock levels, units on order, and each product’s reorder threshold. Products were classified with a `CASE` statement into categories like “Restock Now,” “Restock More,” “Overstocked,” or “Maintain Stock.” The logic highlighted understocked items where demand exceeded availability, and overstocked items sitting well above sales needs. These insights help optimize purchasing decisions and reduce inventory waste.
 

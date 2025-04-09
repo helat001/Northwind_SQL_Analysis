@@ -1,6 +1,6 @@
 # SQL Retail Analytics – Product, Customer, and Inventory Insights
 
-**Author**: Houcine E  
+**Author**: Houcine El  
 **Project Type**: Data Analysis with SQL  
 **Presentation**: [Watch the Video](#) *(Link will go here)*
 

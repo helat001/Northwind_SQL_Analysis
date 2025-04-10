@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="northwind.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="5205"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="Orders" custom_title="0" dock_id="1" table="4,6:mainOrders"/><dock_state state="000000ff00000000fd000000010000000200000356000002befc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000003560000012800ffffff000003560000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Alphabetical list of products" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="74"/><column index="2" value="178"/><column index="3" value="76"/><column index="4" value="82"/><column index="5" value="113"/><column index="6" value="68"/><column index="7" value="92"/><column index="8" value="98"/><column index="9" value="94"/><column index="10" value="94"/><column index="11" value="105"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Categories" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="82"/><column index="2" value="105"/><column index="3" value="294"/><column index="4" value="55"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Customers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="86"/><column index="2" value="185"/><column index="3" value="129"/><column index="4" value="160"/><column index="5" value="241"/><column index="6" value="83"/><column index="7" value="93"/><column index="8" value="82"/><column index="9" value="69"/><column index="11" value="99"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Invoices" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="185"/><column index="2" value="241"/><column index="3" value="83"/><column index="4" value="93"/><column index="5" value="111"/><column index="6" value="90"/><column index="7" value="86"/><column index="8" value="185"/><column index="9" value="241"/><column index="10" value="83"/><column index="11" value="93"/><column index="12" value="82"/><column index="13" value="69"/><column index="14" value="88"/><column index="15" value="59"/><column index="16" value="76"/><column index="17" value="97"/><column index="18" value="92"/><column index="19" value="96"/><column index="20" value="74"/><column index="21" value="178"/><column index="22" value="68"/><column index="23" value="64"/><column index="24" value="66"/><column index="25" value="103"/><column index="26" value="55"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Order Details" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="61"/><column index="2" value="75"/><column index="3" value="68"/><column index="4" value="64"/><column index="5" value="66"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Order Details Extended" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="59"/><column index="2" value="74"/><column index="3" value="178"/><column index="4" value="68"/><column index="5" value="64"/><column index="6" value="66"/><column index="7" value="103"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Order Subtotals" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="59"/><column index="2" value="65"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Orders" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="59"/><column index="2" value="87"/><column index="3" value="86"/><column index="4" value="115"/><column index="5" value="115"/><column index="6" value="115"/><column index="7" value="58"/><column index="8" value="55"/><column index="9" value="185"/><column index="10" value="241"/><column index="11" value="83"/><column index="12" value="93"/><column index="13" value="111"/><column index="14" value="90"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="ProductDetails_V" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="74"/><column index="2" value="178"/><column index="3" value="76"/><column index="4" value="82"/><column index="5" value="113"/><column index="6" value="68"/><column index="7" value="92"/><column index="8" value="98"/><column index="9" value="94"/><column index="10" value="94"/><column index="11" value="105"/><column index="12" value="294"/><column index="13" value="206"/><column index="14" value="107"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Products" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="7" mode="0"/></sort><column_widths><column index="1" value="74"/><column index="2" value="178"/><column index="3" value="78"/><column index="4" value="84"/><column index="5" value="113"/><column index="6" value="68"/><column index="7" value="92"/><column index="8" value="98"/><column index="9" value="94"/><column index="10" value="94"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Products Above Average Price" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="163"/><column index="2" value="68"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Products by Category" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="105"/><column index="2" value="178"/><column index="3" value="113"/><column index="4" value="92"/><column index="5" value="94"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Sales Totals by Amount" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="87"/><column index="2" value="59"/><column index="3" value="107"/><column index="4" value="92"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Sales by Category" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="82"/><column index="2" value="105"/><column index="3" value="97"/><column index="4" value="95"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Shippers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="73"/><column index="2" value="107"/><column index="3" value="89"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Summary of Sales by Quarter" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="115"/><column index="2" value="59"/><column index="3" value="65"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Summary of Sales by Year" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="115"/><column index="2" value="59"/><column index="3" value="65"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Suppliers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="76"/><column index="2" value="206"/><column index="3" value="142"/><column index="4" value="153"/><column index="5" value="167"/><column index="6" value="80"/><column index="7" value="93"/><column index="8" value="82"/><column index="9" value="71"/><column index="10" value="89"/><column index="11" value="88"/><column index="12" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="1">--1 Product category performance by revenue contribution and product count, identifying top-performing categories
+--Determine which categories generate the most revenue and how products are distributed
+
+
+--CTE 1: Calculate total sales and product count per category
+WITH 
+CategoryStats AS (
+  SELECT 
+    cat.CategoryName,
+    COUNT(DISTINCT p.ProductID) AS NumProducts,
+    SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) AS TotalCategorySales
+  FROM Categories AS cat
+  JOIN Products AS p ON cat.CategoryID = p.CategoryID
+  JOIN &quot;Order Details&quot; AS od ON p.ProductID = od.ProductID
+  GROUP BY cat.CategoryName
+),
+
+--CTE 2: Calculate total revenue across all categories
+TotalRevenue AS (
+  SELECT SUM(TotalCategorySales) AS OverallSales
+  FROM CategoryStats
+)
+
+--Calculate performance metrics / Combines CTE data /  Computes averages and percentages
+SELECT 
+  cs.CategoryName,
+  cs.NumProducts,
+  cs.TotalCategorySales,
+  ROUND(cs.TotalCategorySales / cs.NumProducts, 2) AS AvgRevenuePerProduct,
+  ROUND((cs.TotalCategorySales * 100.0) / tr.OverallSales, 2) AS RevenuePercentage
+FROM CategoryStats cs, TotalRevenue tr
+ORDER BY cs.TotalCategorySales DESC;</sql><sql name="SQL 17">---2. customer ranking based on total sales and country
+
+-- 1. CTE: Customer Sales &amp; Percentile Calculation
+WITH cust_sales AS (
+    SELECT 
+        c.CustomerID,
+        c.CompanyName,
+        c.Country,
+        SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) AS TotalSales,
+        PERCENT_RANK() OVER (ORDER BY SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) DESC) AS pct_rank
+    FROM Customers c
+    JOIN Orders o ON c.CustomerID = o.CustomerID
+    JOIN &quot;Order Details&quot; od ON o.OrderID = od.OrderID
+    GROUP BY c.CustomerID, c.CompanyName, c.Country
+),
+-- 2. CTE: Customer Tier Assignment by Percentile
+customer_tiers AS (
+    SELECT 
+        CustomerID,
+        CompanyName,
+        Country,
+        TotalSales,
+        CASE
+            WHEN pct_rank &lt; 0.25 THEN 'High-Value'
+            WHEN pct_rank &lt; 0.75 THEN 'Mid-Value'
+            ELSE 'Low-Value'
+        END AS Segment
+    FROM cust_sales
+)
+
+-- 3. Aggregated Sales &amp; Customer Count by Country &amp; Tier
+SELECT 
+    Country,
+    Segment,
+    COUNT(*) AS NumCustomers,
+    SUM(TotalSales) AS TotalSalesPerSegment
+FROM customer_tiers
+WHERE Country IS NOT NULL
+GROUP BY Country, Segment
+ORDER BY TotalSalesPerSegment DESC;
+</sql><sql name="SQL 21">-- 3. Products Restock Recommendations
+--Inventory metrics and restock logic
+SELECT
+  p.ProductID,
+  p.ProductName,
+  SUM(od.Quantity) AS RecentUnitsSold,
+  AVG(od.Quantity) AS AvgMonthlySales,
+  p.UnitsInStock,
+  p.UnitsOnOrder,
+  (p.UnitsInStock + p.UnitsOnOrder) AS TotalAvailableStock,
+  p.ReorderLevel,
+  CASE
+    WHEN p.Discontinued = 1 THEN 'Discontinued (No Restock)'
+    WHEN (p.UnitsInStock + p.UnitsOnOrder) &lt; p.ReorderLevel THEN 'Restock Now (Below Reorder Level)'
+    WHEN (p.UnitsInStock + p.UnitsOnOrder) &lt; (AVG(od.Quantity) * 1.5) THEN 'Restock More (Low vs Demand)'
+    WHEN (p.UnitsInStock + p.UnitsOnOrder) &gt; (AVG(od.Quantity) * 3) THEN 'Restock Less (Overstocked)'
+    ELSE 'Maintain Stock'
+  END AS RestockRecommendation
+  
+FROM Products p
+LEFT JOIN &quot;Order Details&quot; od ON p.ProductID = od.ProductID
+LEFT JOIN Orders o ON od.OrderID = o.OrderID
+WHERE o.OrderDate &gt;= DATE((SELECT MAX(OrderDate) FROM Orders), '-12 months')
+GROUP BY
+  p.ProductID, p.ProductName, p.UnitsInStock, p.UnitsOnOrder, p.ReorderLevel, p.Discontinued
+ORDER BY
+  CASE
+    WHEN p.Discontinued = 1 THEN 'Discontinued (No Restock)'
+    WHEN (p.UnitsInStock + p.UnitsOnOrder) &lt; p.ReorderLevel THEN 'Restock Now (Below Reorder Level)'
+    WHEN (p.UnitsInStock + p.UnitsOnOrder) &lt; (AVG(od.Quantity) * 1.5) THEN 'Restock More (Low vs Demand)'
+    WHEN (p.UnitsInStock + p.UnitsOnOrder) &gt; (AVG(od.Quantity) * 3) THEN 'Restock Less (Overstocked)'
+    ELSE 4
+  END,
+  RecentUnitsSold DESC;</sql><current_tab id="0"/></tab_sql></sqlb_project>

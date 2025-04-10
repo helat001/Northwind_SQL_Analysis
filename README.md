@@ -2,7 +2,17 @@
 
 **Author**: Houcine El  
 **Project Type**: Data Analysis with SQL  
-**Presentation**: [Watch the Video](#) *(Link will go here)*
+## Video Presentation
+
+<div align="center">
+  <a href="https://youtu.be/MtQ8fHRdTlo">
+    <img src="https://img.youtube.com/vi/MtQ8fHRdTlo/mqdefault.jpg" alt="Customer Churn Prediction" width="400">
+  </a>
+  <br>
+  <a href="https://youtu.be/MtQ8fHRdTlo">
+    <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" style="vertical-align:middle">
+  </a>
+</div>
 
 ---
 
